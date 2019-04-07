@@ -9,7 +9,7 @@
 # SAMPLE CODE
 
 m = 3;
-while(m<6){
+while(m-6){
   print(5);
   m = m+1;
 };
@@ -19,9 +19,9 @@ z = 2;
 print(m+z);
 
 
-if(5<1){print(1);}else{print(2);};
+if(5-1){print(1);}else{print(2);};
 
-if(6>1){print(1);}
+if(6-1){print(1);}
 
 
 # MEMBERS 
@@ -42,45 +42,45 @@ Robusta Syntax Specification
 
 Types
   
-<primitive type> ::= <numeric type> | any
+-primitive type- ::= -numeric type- | any
 
 
 Blocks and Commands
 
-<if then statement>::= if ( <expression> ) <statement>
+-if then statement-::= if ( -expression- ) -statement-
 
-<if then else statement>::= if ( <expression> ) <statement no short if> else <statement>
+-if then else statement-::= if ( -expression- ) -statement no short if- else -statement-
 
-<if then else statement no short if> ::= if ( <expression> ) <statement no short if> else <statement no short if>
+-if then else statement no short if- ::= if ( -expression- ) -statement no short if- else -statement no short if-
 
-<while statement> ::= while ( <expression> ) <statement>
+-while statement- ::= while ( -expression- ) -statement-
 
 
 Expressions
 
-<constant expression> ::= <expression>
+-constant expression- ::= -expression-
 
-<expression> ::= <assignment expression>
+-expression- ::= -assignment expression-
 
-<assignment expression> ::= <conditional expression> | <assignment>
+-assignment expression- ::= -conditional expression- | -assignment-
 
-<assignment> ::= <left hand side> <assignment operator> <assignment expression>
+-assignment- ::= -left hand side- -assignment operator- -assignment expression-
 
-<left hand side> ::= <expression name>
+-left hand side- ::= -expression name-
 
-<assignment operator> ::= = 
+-assignment operator- ::= = 
 
 Tokens
 
-<digits> ::= <digit> | <digits> <digit>
+-digits- ::= -digit- | -digits- -digit-
 
-<digit> ::= 0 | <non zero digit>
+-digit- ::= 0 | -non zero digit-
 
-<non zero digit> ::= 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+-non zero digit- ::= 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
 
-<sign> ::= + | -
+-sign- ::= + | -
 
-<boolean literal> ::= true | false
+-boolean literal- ::= true | false
 
 New Lines and White Space 
 
