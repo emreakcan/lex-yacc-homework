@@ -9,7 +9,7 @@
 # SAMPLE CODE
 
 m = 3;
-while(m-6){
+while(m<6){
   print(5);
   m = m+1;
 };
@@ -19,9 +19,9 @@ z = 2;
 print(m+z);
 
 
-if(5-1){print(1);}else{print(2);};
+if(5<1){print(1);}else{print(2);};
 
-if(6-1){print(1);}
+if(6>1){print(1);}
 
 
 # MEMBERS 
