@@ -1,5 +1,6 @@
 
-# beleşçi tayfa h.g, çok değiştirmeyin ödevi bozulur. lex, yacc ve gcc komutlarını shellden çalıştırdıktan sonra aşağıda dediklerimi yapın. Ödevi silmiyorum çünkü insana çok faydası olan bişey değil
+# Beleşçi tayfa kanalıma hoşgeldiniz, çok değiştirmeyin ödevi bozulur. 
+lex, yacc ve gcc komutlarını shellden çalıştırdıktan sonra aşağıda dediklerimi yapın. Ödevi silmiyorum çünkü insana çok faydası olan bişey değil.
 
 # How to run ?
 
