@@ -31,10 +31,7 @@ if(6>1){print(1);}
 # MEMBERS 
 
 
-Project Members
-Beren KOTANLI - 20170808075
-Emre Can AKCAN - 20170808074
-Anıl DOĞAN - 20170808071
+
 
 
 # DOC
