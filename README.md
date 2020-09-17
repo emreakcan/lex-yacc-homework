@@ -1,7 +1,4 @@
 
-# Beleşçi tayfa kanalıma hoşgeldiniz, çok değiştirmeyin ödevi bozulur. 
-lex, yacc ve gcc komutlarını shellden çalıştırabiliyor olduktan sonra aşağıda dediklerimi yapın. Ödevi silmiyorum çünkü insana çok faydası olan bişey değil, starlamayı unutmayın kolay gelsin.
-
 # How to run ?
 
 1. clone repo
